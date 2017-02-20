@@ -1,0 +1,2 @@
+# vickyli
+Junior Data Scientist 
